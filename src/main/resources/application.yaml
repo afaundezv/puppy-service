@@ -1,0 +1,7 @@
+server:
+  port: 8082
+breeds:
+  uri: "https://dog.ceo/api/"
+  findAll: "breeds/list/all"
+  findImages: "breed/{breedType}/images"
+
